@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋
-#### It's Garam here. And I doing front develop using react now.
+#### It's Garam here. And I doing front develop using REACT now.
 #### This git exist for just my study and play.
 
 <br/><br/>
